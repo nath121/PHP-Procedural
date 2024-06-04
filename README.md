@@ -39,7 +39,7 @@ Suivez ces étapes pour installer et exécuter les exercices en PHP procédural 
 Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
 ```bash
-git clone https://github.com/votre-utilisateur/exercices-php-procedural.git](https://github.com/nath121/PHP-Procedural.git
+git clone https://github.com/nath121/PHP-Procedural.git
 
 
 Installez Apache, MySQL et PHP sur votre distribution Linux. Vous pouvez suivre les instructions spécifiques à votre distribution (Ubuntu, Debian, etc.).
