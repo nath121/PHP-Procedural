@@ -55,9 +55,7 @@ Importez les fichiers SQL fournis dans le dépôt pour initialiser les tables n�
 5. Configuration des paramètres de connexion
 Ouvrez le fichier config.php (ou équivalent) et configurez les paramètres de connexion à la base de données avec les informations appropriées (nom d'utilisateur, mot de passe, nom de la base de données).
 
-
-6. Exécution des exercices
-Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
+6. Exécution des exercices Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
 
 url
 Copier le code
