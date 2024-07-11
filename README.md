@@ -1,7 +1,5 @@
 # PHP-Procedural
 
-# PHP-Procedural
-
 ![PHP Version](https://img.shields.io/badge/PHP-%3E%3D%207.4-8892BF?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
