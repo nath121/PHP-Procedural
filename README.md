@@ -32,7 +32,7 @@ Avant de commencer, assurez-vous d'avoir un serveur local installé sur votre ma
 
 Suivez ces étapes pour installer et exécuter les exercices en PHP procédural :
 
-### 1. Clonez le dépôt
+Clonez le dépôt
 
 Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
@@ -44,16 +44,16 @@ Installez Apache, MySQL et PHP sur votre distribution Linux. Vous pouvez suivre 
 Placez le dossier cloné dans le répertoire /var/www/html.
 
 
-3. Configuration de la base de données
+Configuration de la base de données
 Ouvrez votre navigateur et accédez à http://localhost/phpmyadmin.
 Créez une nouvelle base de données pour les exercices en PHP.
 Importez les fichiers SQL fournis dans le dépôt pour initialiser les tables nécessaires (si applicable).
 
 
-5. Configuration des paramètres de connexion
+Configuration des paramètres de connexion
 Ouvrez le fichier config.php (ou équivalent) et configurez les paramètres de connexion à la base de données avec les informations appropriées (nom d'utilisateur, mot de passe, nom de la base de données).
 
-6. Exécution des exercices Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
+Exécution des exercices Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
 
 url
 Copier le code
