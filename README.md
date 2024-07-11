@@ -28,39 +28,27 @@ Avant de commencer, assurez-vous d'avoir un serveur local installé sur votre ma
 - **XAMPP** (pour Windows, macOS, et Linux)
 - **LAMP** (pour Linux)
 
-## Installation
-
+nstallation
 Suivez ces étapes pour installer et exécuter les exercices en PHP procédural :
 
 Clonez le dépôt
-
 Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
-
-```bash
-git clone https://github.com/nath121/PHP-Procedural.git
-
+bashCopygit clone https://github.com/nath121/PHP-Procedural.git
 
 Installez Apache, MySQL et PHP sur votre distribution Linux. Vous pouvez suivre les instructions spécifiques à votre distribution (Ubuntu, Debian, etc.).
 Placez le dossier cloné dans le répertoire /var/www/html.
 
-
 Configuration de la base de données
+
 Ouvrez votre navigateur et accédez à http://localhost/phpmyadmin.
 Créez une nouvelle base de données pour les exercices en PHP.
 Importez les fichiers SQL fournis dans le dépôt pour initialiser les tables nécessaires (si applicable).
 
-
 Configuration des paramètres de connexion
 Ouvrez le fichier config.php (ou équivalent) et configurez les paramètres de connexion à la base de données avec les informations appropriées (nom d'utilisateur, mot de passe, nom de la base de données).
-
-Exécution des exercices Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
-
-url
-Copier le code
-http://localhost/nom-du-dossier
+Exécution des exercices
+Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
+Copyhttp://localhost/nom-du-dossier
 Remplacez nom-du-dossier par le nom du dossier où vous avez placé les fichiers clonés.
-
 Contribuer
-
 Les contributions sont les bienvenues ! Vous pouvez ouvrir une issue ou soumettre une pull request.
-
