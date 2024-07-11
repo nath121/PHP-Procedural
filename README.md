@@ -35,6 +35,7 @@ Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
 ```bash
 git clone https://github.com/nath121/PHP-Procedural.git
+```
 
 ### Installer un serveur local
 
