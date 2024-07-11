@@ -48,7 +48,7 @@ Configuration des paramètres de connexion
 Ouvrez le fichier config.php (ou équivalent) et configurez les paramètres de connexion à la base de données avec les informations appropriées (nom d'utilisateur, mot de passe, nom de la base de données).
 Exécution des exercices
 Accédez à votre navigateur et entrez l'URL suivante pour voir la liste des exercices :
-Copyhttp://localhost/nom-du-dossier
+http://localhost/nom-du-dossier
 Remplacez nom-du-dossier par le nom du dossier où vous avez placé les fichiers clonés.
-Contribuer
+## Contribuer
 Les contributions sont les bienvenues ! Vous pouvez ouvrir une issue ou soumettre une pull request.
