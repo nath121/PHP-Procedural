@@ -22,5 +22,5 @@ Le projet comprend :
 4. Lien et accès
    - Lien du projet : https://coursx75.fr/2023-2024/1B_X77/ROSIER/PHP/2024/
    - Identifiants du projet :
-      - Nom d'utilisateur : nathan
+      - Nom d'utilisateur : admin
       - Mot de passe : nathan
